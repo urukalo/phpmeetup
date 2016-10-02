@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    PHP meetup #16
                 </div>
 
                 <div class="links">
