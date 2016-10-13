@@ -75,7 +75,7 @@
 
     <div class="content">
         <div class="title m-b-md">
-            Laravel
+            Cloud Horizon prva meetup priprema
         </div>
 
         <div class="links">
