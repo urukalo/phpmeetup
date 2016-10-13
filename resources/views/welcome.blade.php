@@ -77,9 +77,6 @@
         <div class="title m-b-md">
             Laravel
         </div>
-        <div class="title m-b-md">
-            Cloud Horizon - prva priprema za meetup :D
-        </div>
 
         <div class="links">
             <a href="https://laravel.com/docs">Documentation</a>
